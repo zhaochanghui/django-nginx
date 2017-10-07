@@ -112,11 +112,14 @@ server {
     # max upload size
     client_max_body_size 75M;   # adjust to taste
  
-    # Django media
-   # location /media  {
-    #    alias /home/admin/django_test/media;  # your Django project's media files - amend as required
-    #}
+
+
  
+  # location /media {
+        #静态资源目录
+        alias /home/admin/django_test/media; # your Django project's media files - amend as required
+   # }
+
     location /static {
         #静态资源目录
         alias /home/admin/django_test/static; # your Django project's static files - amend as required
