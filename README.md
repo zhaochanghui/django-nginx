@@ -1,6 +1,3 @@
-# django-nginx
-在fedora25 kde/centos7上成功把django和nginx结合
-
 
 
 1.安装 uwsgi 及 测试 uwsgi
