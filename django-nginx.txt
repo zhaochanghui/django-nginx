@@ -33,7 +33,7 @@ tcp        0      0 0.0.0.0:8000                0.0.0.0:*                   LIST
 
 项目名称：django_test
 
-项目根目录：/home/admin
+项目根目录：/home/admin/django_test
 
 
 ####2.1  创建django项目：
