@@ -27,7 +27,7 @@ tcp        0      0 0.0.0.0:8000                0.0.0.0:*                   LIST
 
 
 
-##2.安装测试完毕，正是和nginx搭配教程
+##2.安装测试完毕，正式和nginx搭配教程
 
 项目：/home/admin/django_test
 
